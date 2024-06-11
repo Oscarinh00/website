@@ -1,0 +1,13 @@
+:root {
+    --bgc: #FFEBBC;
+    --fontc: #292830;
+}
+
+* {
+    font-family: "Inter", sans-serif;
+}
+
+body {
+    background-color: var(--bgc);
+    color: var(--fontc);
+}
